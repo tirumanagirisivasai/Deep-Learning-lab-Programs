@@ -1,7 +1,7 @@
 # Deep-Learning-lab-Programs
-list of all laboratory programs done by siva sai prasad
+This is the list of all laboratory programs compiled and executed by siva sai prasad tirumanagiri
 
-#List of Exercises / Experiments
+# List of Exercises / Experiments
 1. Write an application to implement Perception.
 2. Write an application to implement AND OR gates using Perception.
 3. Write an application to implement a simple neural network
